@@ -8,8 +8,14 @@
 Hey, I am Narasimha Sarma.
 
 
+
+<details>
+ <summary>MY HOBBIES BEFORE BOOTCAMP</summary>
+
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|Listening music|
 |     2|Watching Series|
 |     3|Reading novels |
+
+</details>
