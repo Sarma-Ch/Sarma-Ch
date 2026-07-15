@@ -1,8 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg">
- <source media="(prefers-color-scheme: light)" srcset="https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg">
- <img alt="YOUR-ALT-TEXT" src="https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg">
-</picture>
 
 ## About Me 
 Hey, I am Narasimha Sarma.
@@ -10,7 +5,7 @@ Hey, I am Narasimha Sarma.
 
 
 <details>
- <summary>MY HOBBIES BEFORE BOOTCAMP</summary>
+ <summary>MY HOBBIES</summary>
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
@@ -22,7 +17,3 @@ Hey, I am Narasimha Sarma.
 
 ---
 >Stay small enough, long enough you'll be big enough soon enough...
-
--Random
-
-~~HELLOOO~~
